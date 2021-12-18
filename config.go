@@ -1,6 +1,6 @@
 package config
 
-import "config/input"
+import "github.com/KyotaHelloworld/config/input"
 
 type Config interface {
 	GET(key string) (value string)

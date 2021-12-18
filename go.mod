@@ -1,4 +1,4 @@
-module config
+module github.com/KyotaHelloworld/config
 
 go 1.17
 
